@@ -38,6 +38,10 @@ Collection of workshops and practical labs completed during the official **Pytho
 
 ---
 
+### Module 5: Classes and Objects
+- [x] **Build a Musical Instrument Inventory** (Workshop) - [`Build_a_Musical_Instrument_Inventory.py`](05-classes-and-objects/Build_a_Musical_Instrument_Inventory.py)
+
+---
 
 
 
