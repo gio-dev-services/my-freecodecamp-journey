@@ -35,12 +35,12 @@ Collection of workshops and practical labs completed during the official **Pytho
 ### Module 4: Error Handling
 - [x] **Debug an ISBN Validator** (Lab) - [`Debug_an_ISBN_Validator.py`](04-error-handling/Debug_an_ISBN_Validator.py)
 
-
 ---
 
 ### Module 5: Classes and Objects
 - [x] **Build a Musical Instrument Inventory** (Workshop) - [`Build_a_Musical_Instrument_Inventory.py`](05-classes-and-objects/Build_a_Musical_Instrument_Inventory.py)
 - [x] **Build a Planet Class** (Lab) - [`Build_a_Planet_Class.py`](05-classes-and-objects/Build_a_Planet_Class.py)
+- [x] **Build an Email Simulator** (Workshop) - [`Build_an_Email_Simulator.py`](05-classes-and-objects/Build_an_Email_Simulator.py)
 
 ---
 
