@@ -43,6 +43,10 @@ Collection of workshops and practical labs completed during the official **Pytho
 - [x] **Build an Email Simulator** (Workshop) - [`Build_an_Email_Simulator.py`](05-classes-and-objects/Build_an_Email_Simulator.py)
 - [x] **Build a Budget App** (Certification Project) - [`Build_a_Budget_App.py`](05-classes-and-objects/Build_a_Budget_App.py)
 
+---
+
+### Module 6: Object-Oriented Programming (OOP)
+- [x] **Build a Salary Tracker** (Workshop) - [`Build_a_Salary_Tracker.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Salary_Tracker.py)
 
 ---
 
