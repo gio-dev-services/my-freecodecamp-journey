@@ -50,6 +50,7 @@ Collection of workshops and practical labs completed during the official **Pytho
 - [x] **Build a Game Character Stats Tracker** (Lab) - [`Build_a_Game_Character_Stats_Tracker.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Game_Character_Stats_Tracker.py)
 - [x] **Build a Media Catalogue** (Workshop) - [`Build_a_Media_Catalogue.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Media_Catalogue.py)
 - [x] **Build a Discount Calculator** (Workshop) - [`Build_a_Discount_Calculator.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Discount_Calculator.py)
+- [x] **Build a Player Interface** (Lab) - [`Build_a_Player_Interface.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Player_Interface.py)
 ---
 
 
