@@ -51,6 +51,7 @@ Collection of workshops and practical labs completed during the official **Pytho
 - [x] **Build a Media Catalogue** (Workshop) - [`Build_a_Media_Catalogue.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Media_Catalogue.py)
 - [x] **Build a Discount Calculator** (Workshop) - [`Build_a_Discount_Calculator.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Discount_Calculator.py)
 - [x] **Build a Player Interface** (Lab) - [`Build_a_Player_Interface.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Player_Interface.py)
+- [x] **Build a Polygon Area Calculator** (Certification Project) - [`Build_a_Polygon_Area_Calculator.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Polygon_Area_Calculator.py)
 ---
 
 
