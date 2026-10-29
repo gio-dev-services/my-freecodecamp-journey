@@ -52,7 +52,9 @@ Collection of workshops and practical labs completed during the official **Pytho
 - [x] **Build a Discount Calculator** (Workshop) - [`Build_a_Discount_Calculator.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Discount_Calculator.py)
 - [x] **Build a Player Interface** (Lab) - [`Build_a_Player_Interface.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Player_Interface.py)
 - [x] **Build a Polygon Area Calculator** (Certification Project) - [`Build_a_Polygon_Area_Calculator.py`](06-Object-Oriented-Programming-(OOP)/Build_a_Polygon_Area_Calculator.py)
+
 ---
 
-
+### Module 7: Linear Data Structures
+- [x] **Build a Linked List** (Workshop) - [`Build_a_Linked_List.py`](07-Linear-Data-Structures/Build_a_Linked_List.py)
 
