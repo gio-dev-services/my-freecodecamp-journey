@@ -57,4 +57,6 @@ Collection of workshops and practical labs completed during the official **Pytho
 
 ### Module 7: Linear Data Structures
 - [x] **Build a Linked List** (Workshop) - [`Build_a_Linked_List.py`](07-Linear-Data-Structures/Build_a_Linked_List.py)
+- [x] **Build a Hash Table** (Certification Project) - [`Build_a_Linked_List.py`](07-Linear-Data-Structures/Build_a_Hash_Table.py)
 
+---
