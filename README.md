@@ -60,3 +60,8 @@ Collection of workshops and practical labs completed during the official **Pytho
 - [x] **Build a Hash Table** (Certification Project) - [`Build_a_Hash_Table.py`](07-Linear-Data-Structures/Build_a_Hash_Table.py)
 
 ---
+
+### Module 8: Recursion
+- [x] **Build a Countup Function** (Workshop) - [`Build_a_Countup_Function.py`](08-Recursion/Build_a_Countup_Function.py)
+
+---
