@@ -63,5 +63,6 @@ Collection of workshops and practical labs completed during the official **Pytho
 
 ### Module 8: Recursion
 - [x] **Build a Countup Function** (Workshop) - [`Build_a_Countup_Function.py`](08-Recursion/Build_a_Countup_Function.py)
+- [x] **Build a Range of Numbers Generator** (Lab) - [`Build_a_Range_of_Numbers_Generator.py`](08-Recursion/Build_a_Range_of_Numbers_Generator.py)
 
 ---
