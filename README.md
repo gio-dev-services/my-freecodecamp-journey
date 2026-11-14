@@ -66,3 +66,8 @@ Collection of workshops and practical labs completed during the official **Pytho
 - [x] **Build a Range of Numbers Generator** (Lab) - [`Build_a_Range_of_Numbers_Generator.py`](08-Recursion/Build_a_Range_of_Numbers_Generator.py)
 
 ---
+
+### Module 9: Algorithms
+- [x] **Implement the Binary Search Algorithm** (Workshop) - [`Implement_the_Binary_Search_Algorithm.py`](09-Algorithms/Implement_the_Binary_Search_Algorithm.py)
+
+---
